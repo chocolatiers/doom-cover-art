@@ -1,4 +1,6 @@
-High-resolution versions of the cover artwork for the various Doom games.
+This is a collection of high-resolution versions of the cover artwork for games
+in the Doom series. The Doom games have a distinctive style of cover artwork
+reminiscent of '80s heavy metal album covers.
 
 * [Doom Logo](Adrian%20Carmack%20-%20Doom%20Logo.png) - Just a high resolution
   version of the original Doom logo by Adrian Carmack.
