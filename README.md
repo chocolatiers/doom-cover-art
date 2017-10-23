@@ -30,6 +30,11 @@ reminiscent of '80s heavy metal album covers.
   cover art. [A time lapse video](https://www.youtube.com/watch?v=V8Q16Jwb3zY)
   can be found on YouTube showing how it was drawn.
 
+* [Magazine Cover](Don%20Ivan%20Punchatz%20-%20Cover%20for%20EGM%20Magazine.jpg)
+  created by Don Ivan Punchatz [for a cover of EGM
+  magazine](https://twitter.com/romero/status/641885453776322560) (the November
+  1994 issue; Volume 7, Issue 11).
+
 ## Doom novels
 
 Cover art for two of the [doom novels](https://doomwiki.org/wiki/Doom_novels)
