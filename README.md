@@ -14,7 +14,7 @@ reminiscent of '80s heavy metal album covers.
   [originally intended](https://twitter.com/romero/status/543008669583941632)
   to be the cover art for Doom II, but the id developers didn't like the look.
 
-* [Doom II](Gerald%20Brom%20-%20Doom%20II.jpg) - The cover art for Doom II, by
+* [Doom II](Gerald%20Brom%20-%20Doom%20II.png) - The cover art for Doom II, by
   [Gerald Brom](https://doomwiki.org/wiki/Gerald_Brom).
 
 * [Heretic](Gerald%20Brom%20-%20Heretic.jpg) - The cover art for Heretic, also
