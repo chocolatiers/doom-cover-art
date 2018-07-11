@@ -20,7 +20,7 @@ reminiscent of '80s heavy metal album covers.
 * [Heretic](Gerald%20Brom%20-%20Heretic.jpg) - The cover art for Heretic, also
   by Brom and included for posterity.
 
-* [Doom (32X)](Roger%20Motzkus%20-%20Doom.jpg) - Originally drawn by Roger
+* [Doom (32X)](Roger%20Motzkus%20-%20Doom.png) - Originally drawn by Roger
   Motzkus under contract to Sega for the 32X port (it appeared on the inside of
   the box), this is better known as the cover art for the Sony Playstation
   port.
